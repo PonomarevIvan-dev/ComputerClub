@@ -1,0 +1,5 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: ComputerClub, Конфигурация: Debug Any CPU ------
+1>  ComputerClub -> C:\Users\79532\source\repos\ComputerClub\ComputerClub\bin\Debug\ComputerClub.exe
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Прошло 00:00,473 ==========
